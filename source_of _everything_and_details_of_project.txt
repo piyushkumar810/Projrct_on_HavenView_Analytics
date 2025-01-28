@@ -8,4 +8,13 @@ Project Name:
         View: Refers to both the scenic views associated with resorts and the clear insights provided by the 			dashboard.
        Analytics: Emphasizes the data-driven aspect of the project, showcasing the analysis and insights from 3 		years of data.
 
-This huge amount of data is Downloaded from --> "Kaggle" ()
+This huge amount of data is Downloaded from --> "Kaggle" (hotel_resort)
+               About Kaggle:-
+                    Kaggle hosts a vast collection of free datasets across various domains (e.g., finance, 			        healthcare, sports).
+		    Users can download datasets or use them directly in Kaggle’s environment for analysis and 				modeling.
+
+
+
+icons are taken from :- https://icons8.com/icons/set/booking-cancellation
+
+colors are picked from :- https://coolors.co/palettes/trending
