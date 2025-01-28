@@ -1,0 +1,11 @@
+Projection Description: 
+          The project focuses on consolidating and visualizing 3 years of hotel and resort data into an interactive   	Power BI dashboard using Excel as the data source. The dashboard will provide all the records and mainly 	focuses on booking cancellation , so that you can improve your Hotel facilities so your cancellation number 	can reduce and get good rating.
+
+Project Name: 
+        HavenView Analytics
+
+        Haven: Represents a safe, comfortable place, like a hotel or resort, where guests relax and enjoy their    		stay.
+        View: Refers to both the scenic views associated with resorts and the clear insights provided by the 			dashboard.
+       Analytics: Emphasizes the data-driven aspect of the project, showcasing the analysis and insights from 3 		years of data.
+
+This huge amount of data is Downloaded from --> "Kaggle" ()
